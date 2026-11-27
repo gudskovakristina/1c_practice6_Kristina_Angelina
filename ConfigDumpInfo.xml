@@ -27039,8 +27039,8 @@
 		<Metadata name="CommonModule.ОбщегоНазначенияСобытияФормИСКлиентПереопределяемый.Module" id="a2486758-f03e-4778-83fe-4c1d482c6eff.0" configVersion="9275477f39e6fc41b34290bbbc31c0e900000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияСобытияФормИСПереопределяемый" id="7e7d7f6b-4084-4a16-b2e3-481f3da5f204" configVersion="44ce3ef7ed675847954af7629e89dc8d00000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияСобытияФормИСПереопределяемый.Module" id="7e7d7f6b-4084-4a16-b2e3-481f3da5f204.0" configVersion="479204198bfa474a8e1108803251b87200000000"/>
-		<Metadata name="CommonModule.ОбщегоНазначенияУНФ" id="dc71056c-75b6-4490-81f2-b1b9e1942616" configVersion="672fd91a2dab154eb5f38499ee3baf8200000000"/>
-		<Metadata name="CommonModule.ОбщегоНазначенияУНФ.Module" id="dc71056c-75b6-4490-81f2-b1b9e1942616.0" configVersion="02c4e9fcd17226418ec87dbe946b231200000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияУНФ" id="dc71056c-75b6-4490-81f2-b1b9e1942616" configVersion="5ed8819fe1587f449930e713e18251b500000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияУНФ.Module" id="dc71056c-75b6-4490-81f2-b1b9e1942616.0" configVersion="bb89efdec57a984f9d5858c5c9ffa70800000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияУНФВызовСервера" id="c807be16-7578-4668-992f-deee7d2ab047" configVersion="d3d6cfef381f8643b808525ca3f3b42600000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияУНФВызовСервера.Module" id="c807be16-7578-4668-992f-deee7d2ab047.0" configVersion="f137d086a45d6a4aa7f12dc17033b69f00000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияУНФКлиент" id="84a8e1ff-0b71-4933-89f1-a18323df35cb" configVersion="f48fae473b48b04cbec0c45e81bd0ac700000000"/>
@@ -35572,7 +35572,7 @@
 		<Metadata name="CommonTemplate.ШаблоныСообщенийОбОшибкахАЛКО.Template" id="e59dec7c-9718-11e9-bd8c-60a44ccf9066.0" configVersion="561f88cbf3134d45a9215d5d7d04b43900000000"/>
 		<Metadata name="CommonTemplate.ЭталонИС" id="97197400-b866-48fa-a789-a2d0fe2906a0" configVersion="d1a4ead1dc8ee943a5f2f9135877524000000000"/>
 		<Metadata name="CommonTemplate.ЭталонИС.Template" id="97197400-b866-48fa-a789-a2d0fe2906a0.0" configVersion="603cb7a7b43685428ae52df6e56b407800000000"/>
-		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная" id="de29c81d-d880-419b-8f65-cc49813f0e9a" configVersion="9dbbe6563b66aa4a9752f7585e8c742100000000"/>
+		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная" id="de29c81d-d880-419b-8f65-cc49813f0e9a" configVersion="f7c083ed02639b49a02acc936d65629500000000"/>
 		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.ClientApplicationInterface" id="dc6d7646-10e5-41e7-9723-e450f206df84.b" configVersion="f4dcdcf233cbc648b08456f48427399800000000"/>
 		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.CommandInterface" id="dc6d7646-10e5-41e7-9723-e450f206df84.a" configVersion="82dd6692a1557042b3c11f64b3ec7c5e00000000"/>
 		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.ExternalConnectionModule" id="dc6d7646-10e5-41e7-9723-e450f206df84.5" configVersion="8704e7c23b353543800346d2d343b62200000000"/>
@@ -35584,7 +35584,7 @@
 		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.ManagedApplicationModule" id="dc6d7646-10e5-41e7-9723-e450f206df84.6" configVersion="7be8186e49ec90478161ed3fdbe6aa4700000000"/>
 		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.MobileClientSignature" id="dc6d7646-10e5-41e7-9723-e450f206df84.10" configVersion="c587bbfad9c3054b8ff169ae01785fe700000000"/>
 		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.OrdinaryApplicationModule" id="dc6d7646-10e5-41e7-9723-e450f206df84.0" configVersion="237744ef6469ec41ad786fa6fa57bafc00000000"/>
-		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.ParentConfigurations" id="dc6d7646-10e5-41e7-9723-e450f206df84.4" configVersion="8099d8a9fa39ef44b87ea148153cf49d00000000"/>
+		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.ParentConfigurations" id="dc6d7646-10e5-41e7-9723-e450f206df84.4" configVersion="43301c5afd95734fa5b666db27414e1a00000000"/>
 		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.SessionModule" id="dc6d7646-10e5-41e7-9723-e450f206df84.7" configVersion="239bd3d14aef7841ae0b513f88ac88b500000000"/>
 		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.Splash" id="dc6d7646-10e5-41e7-9723-e450f206df84.2" configVersion="a403d0642165e844a0e53cad6e1e576700000000"/>
 		<Metadata name="Constant.АвтоПодборНомеровГТД" id="38259fad-b8f3-4472-9593-45ecdacb52f3" configVersion="734560ceab57bf42965c7a2b52528f7400000000"/>
