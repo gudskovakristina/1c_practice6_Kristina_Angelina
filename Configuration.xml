@@ -13920,6 +13920,7 @@
 			<DataProcessor>ЭлектронноеВзаимодействие</DataProcessor>
 			<DataProcessor>ЭлектронныеДокументыОтправкаКаталога</DataProcessor>
 			<DataProcessor>ЭлектронныеПеревозочныеДокументы</DataProcessor>
+			<DataProcessor>ЗагрузкаПрайсов</DataProcessor>
 			<InformationRegister>АбонентыЭДО</InformationRegister>
 			<InformationRegister>АвтоНумерацияДоговоровКонтрагента</InformationRegister>
 			<InformationRegister>АвторизацияВСервисе1СФреш</InformationRegister>
